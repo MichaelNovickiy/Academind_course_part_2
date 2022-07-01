@@ -1,0 +1,29 @@
+.mainDiv {
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.userField {
+    display: flex;
+    flex-direction: column;
+}
+
+.userField input {
+    width: 100%;
+    margin: 5px 0;
+}
+
+.button {
+    background-color: #540237;
+    margin-top: 5px;
+    border: none;
+    padding: 5px 10px;
+    font-size: large;
+    color: white;
+}
